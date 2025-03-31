@@ -4,5 +4,6 @@ It provides:
 
 Tested and modular Python scripts
 
-Tools for creating .dmg files on macOS and .7z or .zip, and .exe archives on Windows
+Tools for creating .dmg files on macOS and .7z or .zip, and .exe archives on Windows.
+
 Tested on Mac-Intel or Windows 10
